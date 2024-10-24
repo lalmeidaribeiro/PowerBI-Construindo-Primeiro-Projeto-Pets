@@ -5,7 +5,7 @@
 ### :computer: Projeto 
 <p>O dashboard foi construído para uma loja de petshop, permitindo uma visualização clara e objetiva dos principais KPIs de vendas e comportamento dos clientes</p>
 
-[Demonstração do Dashboard](./dashboard-demo.gif)
+![Demonstração do Dashboard](./dashboard-demo.gif)
 
 ![image](https://github.com/user-attachments/assets/88512308-b208-4aa8-a135-f1cb8daa111f)
 
