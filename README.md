@@ -28,3 +28,8 @@
 2. Abra o Power BI e carregue o arquivo .pbix na mesma pasta onde os datasets estão salvos.
 3. O projeto estará pronto para ser visualizado e avaliado.
 
+
+### :bulb: Contato
+Se este projeto te ajudou, não esquece de me seguir! ✨ Fico super feliz em receber sugestões de melhorias ou dicas para continuar evoluindo! Pode me chamar no Linkedin ou mandar um e-mail, vou adorar conversar com você! 😊📩
+- Email: rlarissa191@gmail.com
+- Linkedin: https://www.linkedin.com/in/larissa-de-almeida-ribeiro-212214197/
